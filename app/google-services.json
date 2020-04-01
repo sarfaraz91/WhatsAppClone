@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271648429913",
+    "firebase_url": "https://whatsappclonetry.firebaseio.com",
+    "project_id": "whatsappclonetry",
+    "storage_bucket": "whatsappclonetry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271648429913:android:4662439773c7cca112de48",
+        "android_client_info": {
+          "package_name": "com.example.whatsappclonetry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271648429913-14k4gounsm6sbkhin7uapb7b3rl2uh48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsappclonetry",
+            "certificate_hash": "b6c19e02ffb9e7407202669b16c21034a5e73d14"
+          }
+        },
+        {
+          "client_id": "271648429913-b2bepbslj2gnpusjmhmblrene0r91bt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN8PEUDbS9w8rldLHjqheejnr-v9AupVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271648429913-b2bepbslj2gnpusjmhmblrene0r91bt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

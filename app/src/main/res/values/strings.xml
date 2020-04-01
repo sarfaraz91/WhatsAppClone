@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WhatsAppCloneTry</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Email">Email</string>
+    <string name="pass">Password</string>
+    <string name="Name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="rd_password">password required</string>
+    <string name="rd_phone">phone number required</string>
+    <string name="max_phone_digits">phone number cannot be less than 10 numbers</string>
+    <string name="rd_name">name required</string>
+    <string name="rd_email">email required</string>
+    <string name="welcome">Welcome to HomeChef</string>
+</resources>
